@@ -3,8 +3,7 @@
 My attempt to learn the basics of Websockets utilizing Sockets.io and Express
 
 ## Getting Started
-
-Download and open the project. Open your terminal and 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites
 
